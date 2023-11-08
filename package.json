@@ -1,0 +1,12 @@
+{
+	"name": "wareki",
+	"version": "1.0.0",
+	"description": "",
+	"main": "wareki.js",
+	"scripts": {
+		"test": "node test"
+	},
+	"author": "naosuke",
+	"type": "module",
+	"license": "MIT"
+}
